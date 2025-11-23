@@ -69,5 +69,4 @@ Nova AI uses modern AI technologies and optimization pipelines including:
 
 We welcome contributions!
 
-To contribute:
-
+Dm me
